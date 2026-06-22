@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96c4c,50:a855f7,100:3b82f6&height=200&section=header&text=Hey%2C%20I'm%20Anukool%20%F0%9F%91%BE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Code%20%26%20Chaos&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;CV+Intern+%40+Transline+Technologies+%F0%9F%9A%80;IIIT+Hyderabad+%7C+AI%2FML+Lead+%E2%9A%A1;Always+shipping%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;CV+Intern+%40+Transline+Technologies+%F0%9F%9A%80;Always+shipping%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,15 +18,11 @@
 ```yaml
 name: Anukool Kashyap
 location: India 🇮🇳
-education: B.Tech/M.Tech Integrated @ IIIT Hyderabad
 roles:
-  - AI/ML Lead @ College Tech Club
   - Computer Vision Intern @ Transline Technologies
-  - Research Intern @ IIIT Hyderabad (OKI Project)
 
 currently:
   - Building CV pipelines with YOLO + OpenCV @ Transline
-  - Contributing to Hindi Wikisource (NLP + OCR)
   - Exploring GAR, LLMs & Generative AI
 
 superpower: Turning caffeine into computer vision models ☕→🧠
@@ -85,10 +81,10 @@ superpower: Turning caffeine into computer vision models ☕→🧠
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hemish22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=e96c4c&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemish22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnukoolKashyap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=e96c4c&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukoolKashyap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemish22&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=e96c4c&currStreakLabel=ffffff" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnukoolKashyap&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=e96c4c&currStreakLabel=ffffff" width="500"/>
 
 </div>
 
@@ -113,7 +109,7 @@ superpower: Turning caffeine into computer vision models ☕→🧠
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-hemish22-181717?style=for-the-badge&logo=github)](https://github.com/hemish22)
+[![GitHub](https://img.shields.io/badge/GitHub-AnukoolKashyap-181717?style=for-the-badge&logo=github)](https://github.com/AnukoolKashyap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
@@ -125,7 +121,7 @@ superpower: Turning caffeine into computer vision models ☕→🧠
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:a855f7,100:e96c4c&height=100&section=footer" width="100%"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hemish22&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=AnukoolKashyap&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"The best model is the one that ships."* ⚡
 
