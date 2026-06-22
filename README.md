@@ -1,0 +1,132 @@
+<div align="center">
+
+<!-- Animated banner-style header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96c4c,50:a855f7,100:3b82f6&height=200&section=header&text=Hey%2C%20I'm%20Anukool%20%F0%9F%91%BE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Code%20%26%20Chaos&descAlignY=58&descSize=18" width="100%"/>
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;CV+Intern+%40+Transline+Technologies+%F0%9F%9A%80;IIIT+Hyderabad+%7C+AI%2FML+Lead+%E2%9A%A1;Always+shipping%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<!-- About section -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+### 🎮 About Me
+
+```yaml
+name: Anukool Kashyap
+location: India 🇮🇳
+education: B.Tech/M.Tech Integrated @ IIIT Hyderabad
+roles:
+  - AI/ML Lead @ College Tech Club
+  - Computer Vision Intern @ Transline Technologies
+  - Research Intern @ IIIT Hyderabad (OKI Project)
+
+currently:
+  - Building CV pipelines with YOLO + OpenCV @ Transline
+  - Contributing to Hindi Wikisource (NLP + OCR)
+  - Exploring GAR, LLMs & Generative AI
+
+superpower: Turning caffeine into computer vision models ☕→🧠
+```
+
+<br clear="right"/>
+
+---
+
+### 🔥 Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Dev & Cloud**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 💡 What it does | 🛠 Stack |
+|:--|:--|:--|
+| [**Smart Crowd Analytics — Delhi Metro**](https://github.com/hemish22/Smart-Analytics-for-Delhi-Metro-Platforms-YoloV8-) | Real-time crowd detection, zone heatmaps & Streamlit dashboard | YOLOv8, ByteTrack, Streamlit, CI/CD |
+| [**RTSP Face Detection**](https://github.com/AnukoolKashyap/RTSP-FaceDetection_Transline) | Live face detection on RTSP streams with threading architecture | YOLO, OpenCV, Python Threads |
+| **Indian Govt Scheme Informer** | Hybrid rules + LLM app to surface relevant schemes for citizens | FastAPI, Groq LLM, Vanilla JS |
+| **Chess Engine (WIP)** | Building a chess engine from scratch, incrementally | C++ |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hemish22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=e96c4c&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemish22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemish22&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=e96c4c&currStreakLabel=ffffff" width="500"/>
+
+</div>
+
+---
+
+### 🎵 Vibing To
+
+<div align="center">
+
+> *Code hits different with the right playlist* 🎧
+
+[![🎵 My Coding Playlist](https://img.shields.io/badge/🎵%20Coding%20Playlist-Click%20to%20Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/YOUR_PLAYLIST_ID)
+[![▶️ YouTube Music](https://img.shields.io/badge/▶️%20YouTube%20Mix-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+
+*Replace the playlist links above with your actual Spotify/YouTube playlist URLs*
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-hemish22-181717?style=for-the-badge&logo=github)](https://github.com/hemish22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:a855f7,100:e96c4c&height=100&section=footer" width="100%"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hemish22&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+
+*"The best model is the one that ships."* ⚡
+
+</div>
