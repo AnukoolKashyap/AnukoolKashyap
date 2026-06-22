@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated banner-style header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96c4c,50:a855f7,100:3b82f6&height=200&section=header&text=Hey%2C%20I'm%20Anukool%20%F0%9F%91%BE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Code%20%26%20Chaos&descAlignY=58&descSize=18" width="100%"/>
+<!-- Header background image -->
+<img src="./assets/banner.jpg" width="100%" alt="banner"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;CV+Intern+%40+Transline+Technologies+%F0%9F%9A%80;Always+shipping%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
@@ -120,8 +120,6 @@ currently:
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:a855f7,100:e96c4c&height=100&section=footer" width="100%"/>
 
 *"The best model is the one that ships."* ⚡
 
