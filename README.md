@@ -17,15 +17,13 @@
 
 ```yaml
 name: Anukool Kashyap
-location: India 🇮🇳
+location: Lucknow-Chennai, India 🇮🇳
 roles:
   - Computer Vision Intern @ Transline Technologies
 
 currently:
   - Building CV pipelines with YOLO + OpenCV @ Transline
   - Exploring GAR, LLMs & Generative AI
-
-superpower: Turning caffeine into computer vision models ☕→🧠
 ```
 
 <br clear="right"/>
@@ -38,8 +36,12 @@ superpower: Turning caffeine into computer vision models ☕→🧠
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI / ML**
@@ -110,8 +112,8 @@ superpower: Turning caffeine into computer vision models ☕→🧠
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnukoolKashyap-181717?style=for-the-badge&logo=github)](https://github.com/AnukoolKashyap)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anukoolkashyap/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashyapanukool22@gmail.com)
 
 </div>
 
@@ -120,8 +122,6 @@ superpower: Turning caffeine into computer vision models ☕→🧠
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:a855f7,100:e96c4c&height=100&section=footer" width="100%"/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AnukoolKashyap&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"The best model is the one that ships."* ⚡
 
