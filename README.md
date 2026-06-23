@@ -16,12 +16,12 @@
 ### 🎮 About Me
 
 ```yaml
-name: Anukool Kashyap
-location: Lucknow-Chennai, India 🇮🇳
-roles:
+Name: Anukool Kashyap
+Location: Lucknow-Chennai, India 🇮🇳
+Roles:
   - Computer Vision Intern @ Transline Technologies
 
-currently:
+Currently:
   - Building CV pipelines with YOLO + OpenCV @ Transline
   - Exploring GAR, LLMs & Generative AI
 ```
@@ -96,18 +96,18 @@ currently:
 
 <div align="center">
 
-> *Code hits different with the right playlist* 🎧
+> *Code hits different with the right playlist* 
 
 [![🎵 My Coding Playlist](https://img.shields.io/badge/🎵%20Coding%20Playlist-Click%20to%20Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/YOUR_PLAYLIST_ID)
 [![▶️ YouTube Music](https://img.shields.io/badge/▶️%20YouTube%20Mix-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=YOUR_PLAYLIST_ID)
 
-*Replace the playlist links above with your actual Spotify/YouTube playlist URLs*
+
 
 </div>
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 <div align="center">
 
