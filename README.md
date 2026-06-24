@@ -10,27 +10,8 @@
 
 ---
 
-<!-- About section -->
-<img align="right" src="./assets/ad26bbdc4cd2b9019d22ccfba2bc9897.gif" width="280" alt="coding gif"/>
 
-###  About Me
-
-```yaml
-name: Anukool Kashyap
-location: Lucknow-Chennai, India 🇮🇳
-roles:
-  - Computer Vision Intern @ Transline Technologies
-
-currently:
-  - Building CV pipelines with YOLO + OpenCV @ Transline
-  - Exploring GAR, LLMs & Generative AI
-```
-
-<br clear="right"/>
-
----
-
-### 🔥 Tech Arsenal
+###  Tech Arsenal
 
 <div align="center">
 
