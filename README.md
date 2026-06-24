@@ -11,9 +11,9 @@
 ---
 
 <!-- About section -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<img align="right" src="./assets/ad26bbdc4cd2b9019d22ccfba2bc9897.gif" width="280" alt="coding gif"/>
 
-### 🎮 About Me
+###  About Me
 
 ```yaml
 name: Anukool Kashyap
