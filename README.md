@@ -4,7 +4,7 @@
 <img src="./assets/david-danc3r-moyano-day-7-window-1.gif" width="100%" height="300px" alt="banner" style="object-fit:cover;"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;+%40+%F0%9F%9A%80;Always+shipping%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;CV+Intern+%40+Transline+Technologies;Always+shipping%2C+always+learning)](https://git.io/typing-svg)
 
 </div>
 
