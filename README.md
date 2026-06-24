@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header background image -->
-<img src="./assets/banner.jpg" width="100%" alt="banner"/>
+<img src="./assets/david-danc3r-moyano-day-7-window-1.gif" width="100%" alt="banner"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+LLMs;CV+Intern+%40+Transline+Technologies+%F0%9F%9A%80;Always+shipping%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
@@ -16,12 +16,12 @@
 ### 🎮 About Me
 
 ```yaml
-Name: Anukool Kashyap
-Location: Lucknow-Chennai, India 🇮🇳
-Roles:
+name: Anukool Kashyap
+location: Lucknow-Chennai, India 🇮🇳
+roles:
   - Computer Vision Intern @ Transline Technologies
 
-Currently:
+currently:
   - Building CV pipelines with YOLO + OpenCV @ Transline
   - Exploring GAR, LLMs & Generative AI
 ```
@@ -96,18 +96,18 @@ Currently:
 
 <div align="center">
 
-> *Code hits different with the right playlist* 
+> *Code hits different with the right playlist* 🎧
 
 [![🎵 My Coding Playlist](https://img.shields.io/badge/🎵%20Coding%20Playlist-Click%20to%20Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/YOUR_PLAYLIST_ID)
 [![▶️ YouTube Music](https://img.shields.io/badge/▶️%20YouTube%20Mix-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=YOUR_PLAYLIST_ID)
 
-
+*Replace the playlist links above with your actual Spotify/YouTube playlist URLs*
 
 </div>
 
 ---
 
-###  Let's Connect
+### 🤝 Let's Connect
 
 <div align="center">
 
